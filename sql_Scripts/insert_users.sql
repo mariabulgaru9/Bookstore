@@ -1,0 +1,1 @@
+INSERT INTO user VALUES (2, "admin@admin.com", "Andrei Ionescu", "admin2000", "admin", "Admin200");
